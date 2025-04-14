@@ -42,10 +42,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_USERNAME/recognition.git"
+    "url": "git+https://github.com/ashish-wellness-coach/recognition.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_USERNAME/recognition/issues"
+    "url": "https://github.com/ashish-wellness-coach/recognition/issues"
   },
-  "homepage": "https://github.com/YOUR_USERNAME/recognition#readme"
+  "homepage": "https://github.com/ashish-wellness-coach/recognition#readme"
 }
